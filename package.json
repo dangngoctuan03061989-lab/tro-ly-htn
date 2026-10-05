@@ -7,7 +7,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@line/bot-sdk": "^9.9.0",
-    "express": "^4.21.2"
+  "@line/bot-sdk": "^2.9.9",
+  "express": "^4.21.2",
+  "openai": "^7.23.0"
   }
 }
